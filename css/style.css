@@ -219,4 +219,15 @@ th:nth-child(3) {
   .social-icons a:hover img {
     transform: scale(1.2);
   }
+
+  form {
+    width: 50%;
+    margin: 0px 0;
+    padding: 10px;
+}
+
+label, input, textarea {
+    display: block;
+    margin: 10px 0;
+}
   
